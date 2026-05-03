@@ -159,5 +159,5 @@ This project combines **data analysis, visualization, and machine learning** to 
 
 ## 👨‍💻 Author
 
-**Hit Bhuva**
+**Heet Bhuva**
 🔗 GitHub: https://github.com/Heetbhuva704
