@@ -141,6 +141,21 @@ python app.py
 * Feature importance highlights the significance of venue and match conditions
 
 ---
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](assets\IPL\Overview\download.png)
+
+### Prediction Output
+![Prediction](assets\IPL\Win Predictor\ca34354c-75bc-4e29-a0ec-c3f5eb45f397.png)
+
+### Sample Analysis
+![Analysis](assets\IPL\Team Analysis\b7ae03d0-530c-4378-ac40-67719521a653.png)
+
+## 📁 More Screenshots
+
+Additional screenshots are available in:
+👉 assets\IPL
 
 ## 🔮 Future Improvements
 
